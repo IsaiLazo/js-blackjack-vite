@@ -5,6 +5,7 @@ import _ from "underscore";
 //Ademas tambien se puede renombrar la funcion para que pueda ser usada en este fichero:
 //import { crearDeck as funcionConOtroNombre } from './usecases/crear-deck';
 //ademas de eso tambien se puede definir en el archivo raiz la importacion por defecto que se desea utilizar
+//con la palabra reservada 'default'
 //pudiendo utilizarla de esta manera: import nuevaImportacionPorDefecto from './usecases/crear-deck';
 
 //Si queremos importar solamente la funcion crearDeck iria dentro de unas llaves
