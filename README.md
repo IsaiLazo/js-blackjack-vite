@@ -1,13 +1,14 @@
 # BlackJack-Vite
-## Este proyecto se utilizan conceptos y herramietas como:
+## En este proyecto se utilizan conceptos y herramietas como:
 ### - Import's y Export's en Javascript
 ### - Clases, Set's y Get's en Javascript
 ### - JSDoc Comments
 ### - Manipulación del DOM
 ### - Vite
+### - Node
 
 Requisitos:
-- Node
+- Node instalado
 
 Pasos a seguir para poder usar este proyecto:
 - ```npm install```
