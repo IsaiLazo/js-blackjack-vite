@@ -1,4 +1,7 @@
 # BlackJack-Vite
+
+En este proyecto se recrea el juego blackjack en donde se puede jugar contra la computadora.
+
 ## En este proyecto se utilizan conceptos y herramietas como:
 ### - Import's y Export's en Javascript
 ### - Clases, Set's y Get's en Javascript
@@ -8,11 +11,11 @@
 ### - Node
 
 Requisitos:
-- Node instalado
+- Node
 
-Pasos a seguir para poder usar este proyecto:
+Pasos a seguir para poder usar localmente este proyecto:
 - ```npm install```
 - ```npm run dev```
 
 ### El proyecto se puede probar en el siguiente link:
-- https://isailazo.github.io/js-blackjack-vite/
+- [blackjack-app](https://isailazo.github.io/js-blackjack-vite/)
