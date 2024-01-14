@@ -13,3 +13,6 @@ Requisitos:
 Pasos a seguir para poder usar este proyecto:
 - ```npm install```
 - ```npm run dev```
+
+### El proyecto se puede probar en el siguiente link:
+- https://isailazo.github.io/js-blackjack-vite/
